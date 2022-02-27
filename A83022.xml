@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament: being a weekly assesment upon the countie of Northampton, for the maintaining of the forces, and preservation of the garrison, to continue for six moneths following. Die Sabbati 12. Octob. 1644. Ordered by the Lords in Parliament assembled, that this ordinance be forthwith printed and published. Ioh. Browne Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83022</idno>
+            <idno type="STC">Wing E1809</idno>
+            <idno type="STC">Thomason E12_20</idno>
+            <idno type="STC">ESTC R5087</idno>
+            <idno type="EEBO-CITATION">99872788</idno>
+            <idno type="PROQUEST">99872788</idno>
+            <idno type="VID">125234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125234)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E12[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament: being a weekly assesment upon the countie of Northampton, for the maintaining of the forces, and preservation of the garrison, to continue for six moneths following. Die Sabbati 12. Octob. 1644. Ordered by the Lords in Parliament assembled, that this ordinance be forthwith printed and published. Ioh. Browne Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright, in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 14 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125234:1" rendition="simple:additions"/>
+            <p>An ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT: Being a weekly Aſſeſment upon the Countie of Northampton, For the maintaining of the Forces, and preſervation of the Garriſon, to continue for ſix moneths following.</p>
+            <p>
+               <hi>Die Sabbati 12. Octob. 1644.</hi>
+            </p>
+            <p>ORdered by the Lords in Parliament aſsembled, that this Ordinance he forthwith printed and publiſhed.</p>
+            <p>
+               <hi>Ioh. Browne Cler. Parliamentorum.</hi>
+            </p>
+            <p>
+               <hi>London</hi> printed for <hi>Iohn Wright,</hi> in the old Bayley. Octob. 14 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125234:2"/>
+            <pb n="1" facs="tcp:125234:2"/>
+            <head>Die Sabbathi 12. Octob. 1644.</head>
+            <p>
+               <seg rend="decorInit">I</seg>I is Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled, That <hi>Wil.</hi> Lord <hi>Fitzwilliams,</hi> Sir <hi>John Dryden,</hi> Sir <hi>Chriſtopher Yelverton,</hi> Sir <hi>Gilbert Pyc<g ref="char:EOLhyphen"/>kering</hi> Baronets; <hi>Zouch Tate, John Crew, Richard Knightley</hi> Eſquires, Members of the Houſe of Commons; Sir <hi>Rowland St John</hi> Knight of the Bath, Sir <hi>Edward Nicolls.</hi> Sir <hi>John Norwich</hi> Baronets; Sir <hi>Humphrey Orme,</hi> Sir <hi>Richard Samwell</hi> Knights; <hi>Richard Knightley</hi> of <hi>Fawzley, Robert Mildemay, Edward Harby, Edward Only, John Cartwright, Philip Holman, Richard Samwell, Edward Farmer, John Wirley, Edward Shug<g ref="char:EOLhyphen"/>borough, Edward Hanbury, William Liſle, Thomas Elmes, John Cleypoole, Francis Quarles, John Norton, John Breton,</hi> and <hi>John Thorneton</hi> Eſquires, and the Major of the Town of <hi>Northampton</hi> for the time being, or any three or more of them, reſiding in the Towne of <hi>Northampton,</hi> for the furniſhing of Armes and Ammunition, making Fortificati<g ref="char:EOLhyphen"/>ons, and payment of the Garriſons, Officers, and Souldiers, and other publike neceſſary Charges for the defence and preſervation of the ſaid County from Plunder and Ruine, ſhall or may from time to time, during the ſpace of ſixe moneths, to commence from the ninth day of September 1644. raiſe in the ſaid County ſuch ſummes of Money as ſhall be by them, or any three or more of them thought neceſſary for the uſes aforeſaid, the ſame to be rated and aſſeſſed in like ſort as was the foure hundred thouſand pounds granted by Act this preſent Parliament, not exceeding the ſumme of ſix hundred pounds a week. And for the better levying of the
+<pb n="2" facs="tcp:125234:3"/>ſaid ſummes of Money, the ſaid Committee, or any three or more of them then reſiding in the Towne of <hi>Northampton,</hi> ſhall or may nominate and appoint Treaſurers, Collectors, and Aſſeſſors in the ſaid County, for Aſſeſſing, Receiving, and Collecting the ſaid ſums of Money, and ſhall and may grant Warrants under their hands to any Conſtable or other perſon or perſons, as well Souldiers, when need ſhall require, as others, to raiſe and levie the ſaid ſums ſo to be Aſſeſſed and Taxed as aforeſaid, upon all ſuch perſons up<g ref="char:EOLhyphen"/>on whom any ſuch ſummes ſhall be ſo aſſeſſed and ſet, that doe re<g ref="char:EOLhyphen"/>fuſe or neglect to pay the ſame by way of diſtreſſe and ſale of the Goods of the perſons ſo aſſeſſed and refuſing, and two pence for every ſhilling that ſhall not be paid upon demand, to beare the charge of thoſe that diſtraine: And in caſe any oppoſition be made, or no Diſtreſſe can be found, the ſaid Committee, or any three or more of them reſiding in <hi>Northampton</hi> as aforeſaid, ſhall or may commit ſuch perſon or perſons refuſing to pay, or not having a ſuf<g ref="char:EOLhyphen"/>ficient Diſtreſſe to be found as aforeſaid, to ſome common Goale within the ſaid County, there to remaine untill payment made of ſuch ſumme and ſummes of Money as aforeſaid, for which ſummes ſo to be raiſed, the ſaid Committee ſhall be accomptable to both Houſes of Parliament, or ſuch as they have appointed, and to none elſe. And if any ſhall refuſe or neglect the execution of ſuch Warrants as ſhall be directed to them by vertue of this Ordinance, it ſhall be lawfull for the ſaid Committee reſiding as aforeſaid, or any three of them, to puniſh ſuch perſon refuſing or neglecting by Fine, not exceeding five pounds to be levied as aforeſaid. Provided, that where it ſhall appeare to the ſaid Committee, or any two of them reſiding as aforeſaid, That any perſon hath beene over-rated to the Tax upon the Bill of 400000 li. an abatement may be made in the Tax of ſuch perſon by the ſaid Committee, or any two of them reſiding as aforeſaid, according to their diſcretions. Provi<g ref="char:EOLhyphen"/>ded alſo, that this preſent Ordinance ſhall be no hinderance to Taxes made by any former Ordinance.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
